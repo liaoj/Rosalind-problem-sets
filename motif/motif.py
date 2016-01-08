@@ -45,14 +45,3 @@ for id in ids:
         for i in sorted(res):
             print i+1,
         print
-    
-            
-    
-    
-    
-  
-        
-    
-    # for line in r.text:
-#         print line 
-    #print r.text
